@@ -1,0 +1,9 @@
+https://scikit-learn.org/stable/install.html
+https://www.unioviedo.es/compnum/laboratorios_py/kmeans/kmeans.html
+https://matplotlib.org/stable/api/_as_gen/matplotlib.pyplot.scatter.html
+https://matplotlib.org/stable/gallery/shapes_and_collections/scatter.html
+https://seaborn.pydata.org/generated/seaborn.pairplot.html
+
+k means python que es
+https://www.aprendemachinelearning.com/7-pasos-machine-learning-construir-maquina/
+https://www.aprendemachinelearning.com/k-means-en-python-paso-a-paso/
